@@ -73,3 +73,4 @@ def getEmails(ss):
 
 def convert(lst):
     return ([i for item in lst for i in item.split()])
+

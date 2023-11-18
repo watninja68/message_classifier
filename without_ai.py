@@ -5,4 +5,3 @@ lst = convert(lst)
 amount = lst[4]
 print(amount)
 
-getEmails('Bankkkk')
